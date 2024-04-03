@@ -1,0 +1,16 @@
+{
+  "name": "backnedproject",
+  "version": "1.0.0",
+  "description": "a backened with hitesh sir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"backened\"",
+    "\"hitesh\"",
+    "\"chaiaurcode\""
+  ],
+  "author": "Gangaprasad",
+  "license": "ISC"
+}
